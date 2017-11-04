@@ -1,6 +1,7 @@
-body {
+* {
   background-color: black;
-  font-family: "Myriad Pro", sans-serif;
+  font-family: "Myriad", sans-serif;
+  color: white;
 }
 
 h1 {
