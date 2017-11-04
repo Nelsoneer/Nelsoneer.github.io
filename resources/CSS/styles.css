@@ -1,1 +1,30 @@
+body {
+  background-color: black;
+  font-family: "Myriad Pro", sans-serif;
+  color: white;
+  width: auto
+}
 
+h1 {
+  color: whitesmoke;
+  font-size: 24px;
+  font-weight: normal;
+  background-color: dimgray;
+}
+
+.headermenu {
+  font-size: 18px;
+  text-decoration-line: none;
+  font-weight: normal;
+  text-align: center;
+  margin-top: auto;
+  
+}
+
+.welcome {
+  font-weight: bold;
+  font-size: 35px;
+  text-align: center;
+  color: dimgray;
+  background-color: whitesmoke;
+}
