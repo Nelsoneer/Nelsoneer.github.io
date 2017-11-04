@@ -9,7 +9,13 @@ h1 {
   color: whitesmoke;
   font-size: 24px;
   font-weight: normal;
-  background-color: dimgray;
+  background-color: transparent;
+  background-image: none;
+}
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
 }
 
 .headermenu {
@@ -18,13 +24,15 @@ h1 {
   font-weight: normal;
   text-align: center;
   margin-top: auto;
-  
+
 }
 
 .welcome {
   font-weight: bold;
-  font-size: 35px;
+  font-size: 70px;
   text-align: center;
-  color: dimgray;
-  background-color: whitesmoke;
+  text-shadow: 1px 2px black;
+  color: whitesmoke;
+  background-size: auto;
+  background-image: url("/Users/CMO/Desktop/projects/ProjectsHomepage/Nelsoneer.github.io/resources/images/Oct072012_5758.jpg")
 }
