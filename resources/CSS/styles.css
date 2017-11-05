@@ -9,7 +9,8 @@ h1 {
   color: whitesmoke;
   font-size: 24px;
   font-weight: normal;
-  background-color: transparent;
+  text-align: center;
+  background-color: dimgray;
   background-image: none;
 }
 
@@ -19,12 +20,10 @@ a {
 }
 
 .headermenu {
-  font-size: 18px;
+  font-size: 24px;
   text-decoration-line: none;
   font-weight: normal;
   text-align: center;
-  margin-top: auto;
-
 }
 
 .welcome {
@@ -35,8 +34,19 @@ a {
   text-decoration: underline firebrick;
   text-decoration-style: solid;
   color: whitesmoke;
-  background-size: auto;
+  background-size: cover;
   background-repeat: no-repeat;
   background-position: bottom;
-  background-image: url("/Users/CMO/Desktop/projects/ProjectsHomepage/Nelsoneer.github.io/resources/images/Oct072012_5758.jpg")
+  background-image: url("/Users/CMO/Desktop/projects/ProjectsHomepage/Nelsoneer.github.io/Abstract GlowCLR_1920x1200.jpg")
+}
+
+.resume,
+.contact,
+.portfolio {
+  font-weight: normal;
+  text-align: center;
+  text-shadow: 1px 2px black;
+  color: whitesmoke;
+  background-color: dimgray;
+  background-size: cover;
 }
